@@ -15,6 +15,7 @@
 		03071EE01E752760000A66FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03071EDE1E752760000A66FD /* LaunchScreen.storyboard */; };
 		03071EEB1E752760000A66FD /* testResetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03071EEA1E752760000A66FD /* testResetTests.m */; };
 		03071EF61E752760000A66FD /* testResetUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 03071EF51E752760000A66FD /* testResetUITests.m */; };
+		034A0B1E1E752C9D004510E1 /* testModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 034A0B1D1E752C9D004510E1 /* testModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		03071EF11E752760000A66FD /* testResetUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testResetUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		03071EF51E752760000A66FD /* testResetUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testResetUITests.m; sourceTree = "<group>"; };
 		03071EF71E752760000A66FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		034A0B1C1E752C9D004510E1 /* testModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testModel.h; sourceTree = "<group>"; };
+		034A0B1D1E752C9D004510E1 /* testModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				03071ED41E752760000A66FD /* AppDelegate.m */,
 				03071ED61E752760000A66FD /* ViewController.h */,
 				03071ED71E752760000A66FD /* ViewController.m */,
+				034A0B1C1E752C9D004510E1 /* testModel.h */,
+				034A0B1D1E752C9D004510E1 /* testModel.m */,
 				03071ED91E752760000A66FD /* Main.storyboard */,
 				03071EDC1E752760000A66FD /* Assets.xcassets */,
 				03071EDE1E752760000A66FD /* LaunchScreen.storyboard */,
@@ -279,6 +284,7 @@
 				03071ED81E752760000A66FD /* ViewController.m in Sources */,
 				03071ED51E752760000A66FD /* AppDelegate.m in Sources */,
 				03071ED21E752760000A66FD /* main.m in Sources */,
+				034A0B1E1E752C9D004510E1 /* testModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +522,7 @@
 				03071EFC1E752760000A66FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		03071EFD1E752760000A66FD /* Build configuration list for PBXNativeTarget "testResetTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +531,7 @@
 				03071EFF1E752760000A66FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		03071F001E752760000A66FD /* Build configuration list for PBXNativeTarget "testResetUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +540,7 @@
 				03071F021E752760000A66FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
