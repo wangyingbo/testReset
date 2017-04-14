@@ -29,13 +29,10 @@
 
     
     
-<<<<<<< HEAD
     
     NSLog(@"fool1");
-=======
     NSLog(@"wyb1");
     
->>>>>>> master
 }
 
 
