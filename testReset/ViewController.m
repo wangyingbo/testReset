@@ -39,6 +39,7 @@
     
     
     NSLog(@"wyb3");
+    NSLog(@"fool3");
 }
 
 

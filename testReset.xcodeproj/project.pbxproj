@@ -23,6 +23,7 @@
 		039394301E9E3A8A0040EBBA /* Ask1.m in Sources */ = {isa = PBXBuildFile; fileRef = 0393942F1E9E3A8A0040EBBA /* Ask1.m */; };
 		03E3DBCE1EA0AEE30069A98E /* Fool1.m in Sources */ = {isa = PBXBuildFile; fileRef = 03E3DBCD1EA0AEE30069A98E /* Fool1.m */; };
 		03E3DBD11EA0B4E30069A98E /* Fool2.m in Sources */ = {isa = PBXBuildFile; fileRef = 03E3DBD01EA0B4E30069A98E /* Fool2.m */; };
+		03E3DBD41EA0B6550069A98E /* Fool3.m in Sources */ = {isa = PBXBuildFile; fileRef = 03E3DBD31EA0B6550069A98E /* Fool3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,8 @@
 		03E3DBCD1EA0AEE30069A98E /* Fool1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fool1.m; sourceTree = "<group>"; };
 		03E3DBCF1EA0B4E30069A98E /* Fool2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fool2.h; sourceTree = "<group>"; };
 		03E3DBD01EA0B4E30069A98E /* Fool2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fool2.m; sourceTree = "<group>"; };
+		03E3DBD21EA0B6550069A98E /* Fool3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fool3.h; sourceTree = "<group>"; };
+		03E3DBD31EA0B6550069A98E /* Fool3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fool3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +142,8 @@
 				03E3DBCD1EA0AEE30069A98E /* Fool1.m */,
 				03E3DBCF1EA0B4E30069A98E /* Fool2.h */,
 				03E3DBD01EA0B4E30069A98E /* Fool2.m */,
+				03E3DBD21EA0B6550069A98E /* Fool3.h */,
+				03E3DBD31EA0B6550069A98E /* Fool3.m */,
 				008940101EA0AE82001258FC /* Wyb1.h */,
 				008940111EA0AE82001258FC /* Wyb1.m */,
 				00D8A1591EA0B49B00DC4885 /* Wyb2.h */,
@@ -318,6 +323,7 @@
 			files = (
 				03E3DBD11EA0B4E30069A98E /* Fool2.m in Sources */,
 				039394301E9E3A8A0040EBBA /* Ask1.m in Sources */,
+				03E3DBD41EA0B6550069A98E /* Fool3.m in Sources */,
 				03071ED81E752760000A66FD /* ViewController.m in Sources */,
 				03071ED51E752760000A66FD /* AppDelegate.m in Sources */,
 				0393942D1E9E3A270040EBBA /* Test1.m in Sources */,
