@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		008940121EA0AE82001258FC /* Wyb1.m in Sources */ = {isa = PBXBuildFile; fileRef = 008940111EA0AE82001258FC /* Wyb1.m */; };
+		00D8A15B1EA0B49B00DC4885 /* Wyb2.m in Sources */ = {isa = PBXBuildFile; fileRef = 00D8A15A1EA0B49B00DC4885 /* Wyb2.m */; };
 		03071ED21E752760000A66FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 03071ED11E752760000A66FD /* main.m */; };
 		03071ED51E752760000A66FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 03071ED41E752760000A66FD /* AppDelegate.m */; };
 		03071ED81E752760000A66FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03071ED71E752760000A66FD /* ViewController.m */; };
@@ -43,6 +44,8 @@
 /* Begin PBXFileReference section */
 		008940101EA0AE82001258FC /* Wyb1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Wyb1.h; sourceTree = "<group>"; };
 		008940111EA0AE82001258FC /* Wyb1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Wyb1.m; sourceTree = "<group>"; };
+		00D8A1591EA0B49B00DC4885 /* Wyb2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Wyb2.h; sourceTree = "<group>"; };
+		00D8A15A1EA0B49B00DC4885 /* Wyb2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Wyb2.m; sourceTree = "<group>"; };
 		03071ECD1E752760000A66FD /* testReset.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testReset.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03071ED11E752760000A66FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		03071ED31E752760000A66FD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -135,6 +138,8 @@
 				03E3DBD01EA0B4E30069A98E /* Fool2.m */,
 				008940101EA0AE82001258FC /* Wyb1.h */,
 				008940111EA0AE82001258FC /* Wyb1.m */,
+				00D8A1591EA0B49B00DC4885 /* Wyb2.h */,
+				00D8A15A1EA0B49B00DC4885 /* Wyb2.m */,
 				03071ED91E752760000A66FD /* Main.storyboard */,
 				03071EDC1E752760000A66FD /* Assets.xcassets */,
 				03071EDE1E752760000A66FD /* LaunchScreen.storyboard */,
@@ -312,6 +317,7 @@
 				03071ED51E752760000A66FD /* AppDelegate.m in Sources */,
 				0393942D1E9E3A270040EBBA /* Test1.m in Sources */,
 				03071ED21E752760000A66FD /* main.m in Sources */,
+				00D8A15B1EA0B49B00DC4885 /* Wyb2.m in Sources */,
 				034A0B1E1E752C9D004510E1 /* testModel.m in Sources */,
 				03E3DBCE1EA0AEE30069A98E /* Fool1.m in Sources */,
 				008940121EA0AE82001258FC /* Wyb1.m in Sources */,
