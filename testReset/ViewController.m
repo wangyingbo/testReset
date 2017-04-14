@@ -33,6 +33,8 @@
     NSLog(@"fool1");
     NSLog(@"wyb1");
     
+    
+    NSLog(@"fool2");
 }
 
 
