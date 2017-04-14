@@ -36,7 +36,9 @@
     
     NSLog(@"fool2");
     NSLog(@"wyb2");
-
+    
+    
+    NSLog(@"fool3");
 }
 
 
